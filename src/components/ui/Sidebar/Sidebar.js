@@ -27,7 +27,7 @@ const Sidebar = () => {
                             By Masud Sarder - Mar 18 2023
                         </Typography>
                         <Typography gutterBottom>
-                            By Masud Sarder - Mar 18 2023
+                            By Masud Sarder  18 2023
                         </Typography>
                         <Typography variant="body2" color="text.secondary" className='my-2'>
                             It is a long established fact that a reader will be
